@@ -7,5 +7,6 @@ public class Test6 {
 		System.out.println("Hello Java5");
 		System.out.println("Hello Java6");
 		System.out.println("Hello Java7");
+		System.out.println("Hello Java8");
 	}
 }
