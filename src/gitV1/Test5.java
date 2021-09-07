@@ -4,8 +4,8 @@ public class Test5 {
 	public static void main(String args[]) {
 		System.out.println("Hello Java3");
 		System.out.println("Hello Java4");
-		System.out.println("Hello Java5");
-		System.out.println("Hello Java6");
-		System.out.println("Hello Java7");
+		System.out.println("Hello Java4.1");
+		System.out.println("Hello Java4.2");
+		System.out.println("Hello Java4.3");
 	}
 }
